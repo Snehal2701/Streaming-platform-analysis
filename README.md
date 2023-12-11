@@ -19,7 +19,7 @@ Explored streaming platforms to find popular shows and see what people enjoy. Ch
 5. Which services are most suitable for children?
 6. Which platform has the highest concentration of TV shows for children?
    
-## Results
+# Results
 - Discovered platform-specific movie counts.
 - Identified Prime as the leader in highly rated TV shows.
 - Listed the current highest-rated TV shows across all platforms.
